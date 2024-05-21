@@ -1,4 +1,4 @@
-# Siri Personal Assistant
+# AI Voice Assistant
 
 This project is a simple personal assistant named "Siri" that can perform various tasks using voice commands. It utilizes the `speech_recognition`, `pyttsx3`, `pywhatkit`, `datetime`, and `wikipedia` libraries to listen to your voice, process commands, and provide responses.
 
